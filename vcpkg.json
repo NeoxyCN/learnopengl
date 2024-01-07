@@ -1,0 +1,14 @@
+{
+  "dependencies": [
+    "glew",
+    "glfw3",
+    "sdl2",
+    "glm",
+    {
+      "name": "glad",
+      "features": [
+        "gl-api-33"
+      ]
+    }
+  ]
+}
