@@ -1,13 +1,6 @@
 {
   "dependencies": [
     "glfw3",
-    "sdl2",
-    "glm",
-    {
-      "name": "glad",
-      "features": [
-        "gl-api-33"
-      ]
-    }
+    "freeglut"
   ]
 }
